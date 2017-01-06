@@ -74,8 +74,3 @@ $.ajax({cache: false, url: "https://crossorigin.me/http://www.ctabustracker.com/
 setTimeout(updatePrediction, 1000);
 
 setInterval(updatePrediction, 30000);
-
-//test
-//test2
-//test3
-//test4
