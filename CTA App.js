@@ -76,3 +76,4 @@ setTimeout(updatePrediction, 1000);
 setInterval(updatePrediction, 30000);
 
 //test
+//test2
